@@ -13,7 +13,9 @@ Notable Updates:<br>
 2024-08-11: Creation of repository, initial commit<br>
 2024-08-12: Updated README file, added Jupyter notebook file<br>
 2024-08-13: Latest updates to EDA<br>
+2024-08-15: Model info added<br>
 <br>
 <br>
+
 
  
